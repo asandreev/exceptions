@@ -1,0 +1,1 @@
+How to show typecast exceptions for enums nicely.

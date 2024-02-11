@@ -1,0 +1,6 @@
+### Good request
+GET http://localhost:8080/hello/MR?name=Andrey
+
+
+### Bad request
+GET http://localhost:8080/hello/MR1?name=Andrey
