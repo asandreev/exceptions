@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.method.annotation.MethodArgumentTypeMismatchException;
 
 @ControllerAdvice
-
 public class GlobalExceptionHandler {
 
     private final EnumInfoProvider enumInfoProvider;
